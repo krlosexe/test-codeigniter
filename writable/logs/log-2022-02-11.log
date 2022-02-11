@@ -1,0 +1,803 @@
+CRITICAL - 2022-02-11 12:38:01 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:09 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:29 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:30 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:30 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:31 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:32 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:32 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:39:40 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:40:20 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:40:26 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:42:37 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:42:38 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:43:29 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:43:56 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:43:58 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:44:02 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:44:18 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:44:18 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:44:19 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:10 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:11 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:11 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:12 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:12 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:12 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:19 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:20 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:20 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:42 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:43 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:43 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:44 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:44 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:45 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:45:59 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:46:02 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:46:03 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:46:03 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:46:03 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:46:04 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:46:12 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:46:12 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:48:09 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:48:10 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:48:21 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:48:22 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:48:22 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:48:22 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:49:19 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:49:45 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:49:47 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:49:48 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:49:56 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:04 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:05 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:05 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:05 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:06 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:06 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:06 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:06 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:07 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:07 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:07 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:07 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:07 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:08 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:14 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:15 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:15 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:15 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:15 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:16 --> Call to undefined method App\Controllers\Home::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:29 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:46 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:47 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:48 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:48 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:49 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:49 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:49 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:49 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:50 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:50 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:50 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:51 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:51 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:52 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:52 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:53 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:53 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:53 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:56 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:50:56 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:02 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:03 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:16 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:17 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:17 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:17 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:17 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:18 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:18 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:18 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:18 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:18 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:19 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:19 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:19 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:19 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:51:56 --> Too few arguments to function App\Controllers\SingersController::Store(), 0 passed in /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php on line 825 and exactly 3 expected
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:32 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:34 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:34 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:35 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:35 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:35 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:35 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:36 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:36 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:36 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 12:52:36 --> Call to undefined method App\Controllers\SingersController::respond()
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 13:02:22 --> Call to a member function post() on null
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 13:02:24 --> Call to a member function post() on null
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 13:23:34 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#2 /Applications/MAMP/htdocs/test_codeigniter/app/Controllers/Home.php(9): view('welcome_message')
+#3 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#4 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-11 13:35:58 --> Call to a member function move() on null
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 13:36:21 --> Call to a member function move() on null
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 13:56:12 --> mkdir(): Read-only file system
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): Read-o...', '/Applications/M...', 176, Array)
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/HTTP/Files/UploadedFile.php(176): mkdir('/public/img/upl...', 511, true)
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('/public/img/upl...')
+#3 /Applications/MAMP/htdocs/test_codeigniter/app/Controllers/SingersController.php(74): CodeIgniter\HTTP\Files\UploadedFile->move('/public/img/upl...')
+#4 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#5 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#6 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-11 14:18:20 --> The original file is not a valid file.
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /Applications/MAMP/htdocs/test_codeigniter/app/Controllers/SingersController.php(94): CodeIgniter\HTTP\Files\UploadedFile->move('/Applications/M...')
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Update()
+#3 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#4 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 14:20:39 --> The original file is not a valid file.
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /Applications/MAMP/htdocs/test_codeigniter/app/Controllers/SingersController.php(81): CodeIgniter\HTTP\Files\UploadedFile->move('/Applications/M...')
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#3 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#4 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 14:42:24 --> Call to a member function move() on null
+#0 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(825): App\Controllers\SingersController->Store()
+#1 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingersController))
+#2 /Applications/MAMP/htdocs/test_codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/test_codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
